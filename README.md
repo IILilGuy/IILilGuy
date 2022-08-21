@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IILilGuy
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python, javascript, html, css
 - 📫 How to reach me discord : @Lil' guy#0001
 
 <!---
