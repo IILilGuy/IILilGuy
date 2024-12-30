@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @IILilGuy
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python, javascript, html, css, php
-- 📫 How to reach me discord : @Lil' guy#0001
 
 <!---
 IILilGuy/IILilGuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
